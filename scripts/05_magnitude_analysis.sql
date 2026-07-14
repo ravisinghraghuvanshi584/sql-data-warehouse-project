@@ -9,6 +9,7 @@ Purpose:
 SQL Functions Used:
     - Aggregate Functions: SUM(), COUNT(), AVG()
     - GROUP BY, ORDER BY
+SQL join used
 ===============================================================================
 */
 
