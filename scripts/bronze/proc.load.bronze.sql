@@ -3,7 +3,7 @@
 Stored Procedure: Load Bronze Layer (Source -> Bronze)
 ===============================================================================
 Script Purpose:
-    The purpose of this stored procedure is to loads data into the 'bronze' schema from external CSV files. 
+    The purpose of this stored procedure is to load data into the 'bronze' schema from external CSV files. 
     It performs the following actions:
     - Truncates the bronze tables before loading data.
     - Uses the `BULK INSERT` command to load data from csv Files to bronze tables.
