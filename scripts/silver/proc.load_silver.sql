@@ -3,7 +3,7 @@
 Stored Procedure: Load silver Layer (bronze -> silver)
 ===============================================================================
 Script Purpose:
-    This stored procedure loads data into the 'silver' schema from bronze schema. 
+    The purpose of this stored procedure is to load data into the 'silver' schema from bronze schema. 
     It performs the following actions:
     - Truncates the silver tables before loading data.
 	- Inserts transformed and cleansed data from bronze into silver layer.
